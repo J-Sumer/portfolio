@@ -34,8 +34,6 @@ Development tools:
 
 # Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-Sumer&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-###
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Sumer)](https://github.com/anuraghazra/github-readme-stats)
 
 # You can always reach out to me
@@ -43,12 +41,14 @@ Development tools:
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jyothi-sumer-goud-maduru-4636bb154/) 
 [<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red" />](https://github.com/J-Sumer/) 
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=jsumermaduru@gmail.com) 
-
+<br/>
 # To build a portfolio similar to this
 
-Run 
+### Run following commands to get a copy of this project 
 
-``` git clone git@github.com:J-Sumer/portfolio.git ```
-``` cd portfolio ```
-``` npm run install ```
-``` npm run start ```
+- Clone the repository - ``` git clone git@github.com:J-Sumer/portfolio.git ```
+- Change Directory - ``` cd portfolio ```
+- Install dependencies - ``` npm run install ```
+- Start the App - ``` npm run start ```
+
+Your application will run on port 3000. Open ```http://localhost:3000``` in your web browser and see the project for yourself
