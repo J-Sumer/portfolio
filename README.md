@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+### Hi there, I'm ``` Jyothi Sumer Goud Maduru ```
+<br/>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# I am a software developer with keen interest in building Web Application
 
-## Available Scripts
+- :green_book: I'm currently pursuing Master's at North Carolina State University.
+- :computer: I have worked as Software Developer at Tata Consultancy Services from June 2019 to Jan 2022.
+- :shopping: I have worked on building scalable applications for Retail clients. 
+- :factory: I have experience building web applications uisng React.js, Node.js, Express.js, Ruby on Rails, MongoDB, SQL, Java.
+- :robot: I love to learn new technologies (Currently building my skills on AI and ML).
+- :man_technologist: I love to build tools that are used by other developers to increase productivity and eliminate redudent work.
+- :dog::dog::dog::dog: And most importantly I loooove dogs. :dog::dog::dog::dog:
 
-In the project directory, you can run:
+# Technologies I am familiar with
 
-### `npm start`
+Programming Languages:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[![My Skills](https://skills.thijs.gg/icons?i=js,python,lua,java,cpp,go)](https://skills.thijs.gg)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Web Technologies:
 
-### `npm test`
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,bootstrap,react,angular,go,java,ruby,mongodb,mysql,nodejs,nextjs,ruby)](https://skills.thijs.gg)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Devops Tools:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![My Skills](https://skills.thijs.gg/icons?i=docker,kubernetes,aws,ansible,jenkins,nginx,linux,bash,powershell)](https://skills.thijs.gg)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Development tools:
 
-### `npm run eject`
+[![My Skills](https://skills.thijs.gg/icons?i=vscode,eclipse,git)](https://skills.thijs.gg)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Stats
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Sumer)](https://github.com/anuraghazra/github-readme-stats)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# You can always reach out to me
 
-## Learn More
+[<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jyothi-sumer-goud-maduru-4636bb154/) 
+[<img align="left" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=red" />](https://github.com/J-Sumer/) 
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](https://mail.google.com/mail/?view=cm&fs=1&to=jsumermaduru@gmail.com) 
+<br/>
+# To build a portfolio similar to this
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Run following commands to get a copy of this project 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Clone the repository - ``` git clone git@github.com:J-Sumer/portfolio.git ```
+- Change Directory - ``` cd portfolio ```
+- Install dependencies - ``` npm run install ```
+- Start the App - ``` npm run start ```
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Your application will run on port 3000. Open ```http://localhost:3000``` in your web browser and see the project for yourself
